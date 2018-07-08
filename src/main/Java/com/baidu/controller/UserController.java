@@ -16,6 +16,9 @@ import javax.annotation.Resource;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
+/**
+ * 郭44
+ */
 @Controller
 @RequestMapping("/user")
 public class UserController {
